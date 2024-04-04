@@ -1,7 +1,7 @@
-# Todo Application Documentation
+# Hello Coco
 
 ## Introduction
-The Todo Application is a web-based task management tool that allows users to keep track of their tasks in an organized manner. This documentation will guide you through the features and functionality of the application, and provide instructions for integrating it into your project.
+HelloCoco is a real time chat application that allow users to engage in real time conversations with friends, colleagues and family. The application provides a nice user experience, enabling users to exchange text messsages, images and files instantly.
 
 ## Features
 1. **Create Tasks**: Users can create new tasks by entering the task name, category, and priority level. The application will store the task information for future reference.
@@ -16,18 +16,15 @@ The Todo Application is a web-based task management tool that allows users to ke
 
 ## Technologies Used
 The Todo Application is developed using the following technologies:
-- **HTML**: Used for structuring the application and creating the user interface.
-- **CSS**: Used for styling the application and enhancing the visual appearance.
-- **JavaScript**: Used for implementing the application's functionality and interactivity.
+- **REACT (Javascript)**: Used for structuring the application and creating the user interface.
+- **SCSS**: Used for styling the application and enhancing the visual appearance.
+- **FIREBASE**: Used to handle backend functionalities.
 
 ## Getting Started
-To integrate the Todo Application into your project, follow these steps:
-1. Download the application files from the repository.
-2. Place the HTML, CSS, and JavaScript files in your project directory.
-3. Link the CSS file to your HTML file using the `<link>` tag.
-4. Include the JavaScript file in your HTML file using the `<script>` tag.
-5. Customize the application's appearance by modifying the CSS classes and styles.
-6. Update the JavaScript code to fit your project's needs, such as integrating with a backend server or data storage solution.
+1. Clone the repository: git clone https://github.com/GodsonO/HelloCoco.git
+2. Navigate to the project directory: cd HelloCoco
+3. Install dependencies: npm install
+4. Start the application: npm start
 
 ## Usage
 To use the Todo Application, follow these instructions:
